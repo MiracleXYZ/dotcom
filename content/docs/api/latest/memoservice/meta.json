@@ -1,12 +1,14 @@
 {
   "title": "Memo Service",
   "pages": [
+    "BatchGetLinkMetadata",
     "CreateMemo",
     "CreateMemoComment",
     "CreateMemoShare",
     "DeleteMemo",
     "DeleteMemoReaction",
     "DeleteMemoShare",
+    "GetLinkMetadata",
     "GetMemo",
     "GetMemoByShare",
     "ListMemoAttachments",
