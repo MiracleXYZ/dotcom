@@ -9,6 +9,13 @@ export interface Sponsor {
 // Featured sponsors displayed in docs sidebar and homepage
 export const FEATURED_SPONSORS: Sponsor[] = [
   {
+    name: "CodeRabbit",
+    url: "https://coderabbit.link/usememos",
+    logo: "https://victorious-bubble-f69a016683.media.strapiapp.com/Orange_Typemark_43bf516c9d.svg",
+    logoDark: "https://victorious-bubble-f69a016683.media.strapiapp.com/White_Typemark_79b9189d19.svg",
+    description: "Cut code review time & bugs in half, instantly.",
+  },
+  {
     name: "Warp",
     url: "https://go.warp.dev/memos",
     logo: "https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Logos/Warp-Wordmark-Black.png",
